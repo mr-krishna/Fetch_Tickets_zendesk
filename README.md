@@ -1,5 +1,8 @@
 # Fetch_Tickets_zendesk
 ## REST API for zendesk - web app in Nodejs
+Download the Node.js source code or a pre-built installer for your platform from the below link:
+https://nodejs.org/en/download/
+
 
 Download the repository and navigate to the path where the repository is placed.
 
